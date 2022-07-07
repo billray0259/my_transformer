@@ -1,8 +1,5 @@
 # TODO
 * BERT
-    * verify shapes of MyBERT
-    * dataloader
-    * training loop
     * visualize training predictions over time
 * dataset
     * huggingface english wikipedia
